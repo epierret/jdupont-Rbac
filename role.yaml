@@ -15,7 +15,7 @@ rules:
   - watch
   - create
   - update
-  - patch
+ 
 
 - apiGroups: ["apps"]
   resources:
@@ -27,7 +27,7 @@ rules:
   - watch
   - create
   - update
-  - patch
+ 
 
 - apiGroups: ["apps"]
   resources:
@@ -39,7 +39,7 @@ rules:
   - watch
   - create
   - update
-  - patch
+ 
 
 - apiGroups: ["batch"]
   resources:
@@ -50,4 +50,4 @@ rules:
   - watch
   - create
   - update
-  - patch
+ 
